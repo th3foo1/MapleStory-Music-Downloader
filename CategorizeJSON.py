@@ -1,3 +1,6 @@
+# This script categorize the song lists using the "mark" key from the original JSON files.
+# This should be the closest to the map areas in the game.
+
 import os
 import json
 from tkinter.filedialog import askopenfilenames
