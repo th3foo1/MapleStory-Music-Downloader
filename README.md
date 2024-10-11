@@ -17,7 +17,7 @@ Yt-dlp (Get the latest release): https://github.com/yt-dlp/yt-dlp/releases
 
 FFmpeg: https://www.ffmpeg.org/download.html
 ## How to Use
-1. Download the Python script.
+1. Download the 'MapleStoryDL.py' Python script.
 2. Run the python, you can run it in a terminal or click it directly to run.
 3. It will pop up 4 dialogues to browse a file:
    1) Choose the location of yt-dlp.exe
