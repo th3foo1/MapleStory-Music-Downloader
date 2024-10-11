@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Adventure Island",
+        "filename": "adventureIsland",
+        "mark": "adventureIsland",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Adventure Island",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-01-03",
+            "structure": "BgmEvent2",
+            "version": "1.2.080"
+        },
+        "youtube": "bA6SLeKHS-c"
+    }
+]

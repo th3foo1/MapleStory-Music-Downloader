@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Level 250 chair effect",
+        "filename": "maxLevelChair",
+        "mark": "3014028",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Max Level Chair",
+            "year": "2014"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2014-03-27",
+            "structure": "BgmEvent",
+            "version": "1.2.212"
+        },
+        "youtube": "Y3is9OyoGGU"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Coke Town",
+        "filename": "CokeTown",
+        "mark": "CokeTown",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Coke Town",
+            "year": "2006"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2006-06-16",
+            "structure": "Bgm13",
+            "version": "1.2.48"
+        },
+        "youtube": "AfsNt5oZrqw"
+    }
+]

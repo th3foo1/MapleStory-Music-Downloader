@@ -1,0 +1,218 @@
+[
+    {
+        "description": "Crimsonwood: Bigfoot boss theme",
+        "filename": "Bigfoot",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Bigfoot",
+            "year": "2008"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2008-08-14",
+            "structure": "BgmGL",
+            "version": "0.59"
+        },
+        "youtube": "X0pUdlLwIhA"
+    },
+    {
+        "description": "Crimsonwood Keep: Courtyard",
+        "filename": "Courtyard",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Courtyard",
+            "year": "2009"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2009-03-05",
+            "structure": "BgmGL",
+            "version": "0.66"
+        },
+        "youtube": "h0_8MftVy90"
+    },
+    {
+        "description": "Crimsonwood Mountain (pre-2019)",
+        "filename": "CrimsonwoodKeep",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Crimsonwood Keep",
+            "year": "2008"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2008-08-14",
+            "structure": "BgmGL",
+            "version": "0.59"
+        },
+        "youtube": "CZoYt7HHSik"
+    },
+    {
+        "description": "Crimsonwood Keep",
+        "filename": "CrimsonwoodKeepInterior",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Crimsonwood Keep Interior",
+            "year": "2009"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2009-03-05",
+            "structure": "BgmGL",
+            "version": "0.66"
+        },
+        "youtube": "qbY2KUn3dmM"
+    },
+    {
+        "description": "Crimsonwood Party Quest: Grandmaster boss theme",
+        "filename": "GrandmastersGauntlet",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Grandmaster's Gauntlet",
+            "year": "2009"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2009-03-05",
+            "structure": "BgmGL",
+            "version": "0.66"
+        },
+        "youtube": "rsASgHchliQ"
+    },
+    {
+        "description": "Crimsonwood Keep Party Quest",
+        "filename": "PartyQuestGL",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Crimsonwood Party Quest",
+            "year": "2009"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2009-03-05",
+            "structure": "BgmGL",
+            "version": "0.66"
+        },
+        "youtube": "xfq61ugRGBo"
+    },
+    {
+        "description": "Crimsonwood: Phantom Forest (pre-2019)",
+        "filename": "PhantomForest (Original)",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Phantom Forest (Original)",
+            "year": "2008"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2008-08-14",
+            "structure": "BgmGL",
+            "version": "0.59"
+        },
+        "youtube": "JDK9B4IWxdg"
+    },
+    {
+        "description": "Crimsonwood Mountain",
+        "filename": "CrimsonMountain",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Crimson Mountain",
+            "year": "2019"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2019-12-18",
+            "structure": "GL_Masteria",
+            "version": "2.10"
+        },
+        "youtube": "6L1PLMErNf0"
+    },
+    {
+        "description": "Crimsonwood: Phantom Forest",
+        "filename": "PhantomForest",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Phantom Forest",
+            "year": "2019"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2019-12-18",
+            "structure": "GL_Masteria",
+            "version": "2.10"
+        },
+        "youtube": "8sRMf0ZhAtw"
+    },
+    {
+        "description": "Crimsonwood: Phantom Forest boss theme",
+        "filename": "Resurrection",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Resurrection",
+            "year": "2019"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2019-12-18",
+            "structure": "GL_Masteria",
+            "version": "2.10"
+        },
+        "youtube": "eqz3XODQj1c"
+    },
+    {
+        "description": "Crimsonwood Keep: Council Hall",
+        "filename": "toVersal",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "To Versal",
+            "year": "2019"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2019-12-18",
+            "structure": "GL_Masteria",
+            "version": "2.10"
+        },
+        "youtube": "GtO4mTwY-XA"
+    },
+    {
+        "description": "Crimsonwood: Phantom Forest (Sanity effect)",
+        "filename": "Whisper",
+        "mark": "Crimsonwood",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Whisper",
+            "year": "2019"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2019-12-18",
+            "structure": "GL_Masteria",
+            "version": "2.10"
+        },
+        "youtube": "ZoDAV2hJ1WU"
+    }
+]

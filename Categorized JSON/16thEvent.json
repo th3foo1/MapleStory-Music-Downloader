@@ -1,0 +1,146 @@
+[
+    {
+        "description": "16th anniversary: Newtro Time (Chu Chu Island)",
+        "filename": "Newtro_ChuChu",
+        "mark": "16thEvent",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Expedition to Chew Chew Island -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": "fCcvhjI7BDk"
+    },
+    {
+        "description": "16th anniversary: Newtro Time",
+        "filename": "Newtro_Disco",
+        "mark": "16thEvent",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Newtro Disco",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": "_v6FtAHKIFw"
+    },
+    {
+        "description": "16th anniversary: Newtro Time (Florina Beach)",
+        "filename": "Newtro_FlorinaBeach",
+        "mark": "16thEvent",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Beachway -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-05-23",
+            "structure": "BgmEvent2",
+            "version": "1.2.316"
+        },
+        "youtube": "CokUXAWcJeU"
+    },
+    {
+        "description": "16th anniversary: Newtro Time (Henesys)",
+        "filename": "Newtro_Henesys",
+        "mark": "16thEvent",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Floral Life -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": "EXMQpJ0JV5M"
+    },
+    {
+        "description": "16th anniversary: Newtro Time",
+        "filename": "Newtro_Kingdom",
+        "mark": "16thEvent",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Newtro Kingdom",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": "ynQE0uzOZwI"
+    },
+    {
+        "description": "16th anniversary: Newtro Time (Login theme)",
+        "filename": "Newtro_Login",
+        "mark": "16thEvent",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Start the Adventure -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": "dlAl1cwvMGQ"
+    },
+    {
+        "description": "16th anniversary: Newtro Time (Ludibrium)",
+        "filename": "Newtro_Ludibrium",
+        "mark": "16thEvent",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Fantastic Thinking -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": "JS6aQ2K3Vs8"
+    },
+    {
+        "description": "16th anniversary: Newtro Time (Balrog theme)",
+        "filename": "Newtro_Orbis",
+        "mark": "16thEvent",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Arab Pirate -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": "M-CUrhHhZAQ"
+    }
+]

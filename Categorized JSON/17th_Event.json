@@ -1,0 +1,20 @@
+[
+    {
+        "description": "17th anniversary: Hotel Maple",
+        "filename": "17th_Event",
+        "mark": "17th_Event",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ESTIMATE",
+            "title": "Hotel Maple",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-04-16",
+            "structure": "BgmEvent",
+            "version": "1.2.101"
+        },
+        "youtube": "VAbkgEPj7aw"
+    }
+]

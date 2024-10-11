@@ -1,0 +1,21 @@
+[
+    {
+        "description": "Maple Squad: Immortal Gorgons event",
+        "filename": "MapleSquadS1",
+        "mark": "ADSquad",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Immortal Gorgons",
+            "titleAlt": "Maple Squad S1",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-02-28",
+            "structure": "Bgm51",
+            "version": "1.2.313"
+        },
+        "youtube": "fEBYirzkjOI"
+    }
+]

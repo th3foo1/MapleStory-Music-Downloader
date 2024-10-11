@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Cernium",
+        "filename": "BattleOfCernium",
+        "mark": "Cernium_After",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Battle of Cernium",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-07-18",
+            "structure": "Bgm53",
+            "version": "1.2.320"
+        },
+        "youtube": "nT7AAW7mcno"
+    },
+    {
+        "description": "Cernium",
+        "filename": "RisingSun",
+        "mark": "Cernium_After",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Rising Sun",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-08-08",
+            "structure": "Bgm53",
+            "version": "1.2.321"
+        },
+        "youtube": "GB32gvkH94o"
+    }
+]
