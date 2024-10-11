@@ -1,18 +1,20 @@
 import json
 import subprocess
 import os
+from tkinter.filedialog import askopenfilename
 from tkinter.filedialog import askopenfilenames
 from tkinter.filedialog import askdirectory
 
 
 # Download MP3 from Youtube
-def yt_dl(dest_path, map_name, filename, yt_id):
+def yt_dl(ytdlp_path, ffmpeg_path, dest_path, map_name, filename, yt_id):
     yt_dlp_cmd = [
         'powershell.exe', 
-        '&', '"D:/tools/YT downloader/yt-dlp.exe"', # Call yt-dlp.exe from absolute path
+        '&', f'"{ytdlp_path}"', # Call yt-dlp.exe from absolute path
         '-x', # Extract audio only
         '--audio-format', 'mp3', # Output format to be MP3
         '--audio-quality' ,'0', # Best audio quality
+        '--ffmpeg-location', f'"{ffmpeg_path}"', 
         '-P', f'"{dest_path}/{map_name}"', # Specify the bgm map
         '-o', f'"{filename}.noMeta.%(ext)s"', # Output file name
         f'{yt_id}' # YT ID of the video
@@ -22,7 +24,7 @@ def yt_dl(dest_path, map_name, filename, yt_id):
     return f'{filename}.noMeta.mp3'
 
 # Apply metadata to downloaded MP3
-def apply_metadata(file_path, map_name, mp3_file, metadata):
+def apply_metadata(ffmpeg_path, file_path, map_name, mp3_file, metadata):
     title = metadata.get('title', '')
     artist = metadata.get('artist', '')
     albumArtist = metadata.get('albumArtist', '')
@@ -31,7 +33,7 @@ def apply_metadata(file_path, map_name, mp3_file, metadata):
     output_file = mp3_file.replace('.noMeta.mp3', '.mp3')
     ffmpeg_cmd = [
         'powershell.exe', 
-        '&', 'ffmpeg', 
+        '&', f'"{ffmpeg_path}"', 
         '-i', f'"{file_path}/{map_name}/{mp3_file}"',
         '-metadata', f'title="{title}"',
         '-metadata', f'artist="{artist}"',
@@ -52,7 +54,7 @@ def apply_metadata(file_path, map_name, mp3_file, metadata):
     return output_file
 
 # Process JSON file
-def process_json(json_files, dest_path):
+def process_json(ytdlp_path, ffmpeg_path, json_files, dest_path):
     for json_file in json_files:
 
         # Read JSON file
@@ -79,25 +81,31 @@ def process_json(json_files, dest_path):
             else:
                 # Download MP3 from Youtube using data from JSON
                 print(f'Downloading {map_name}/{filename}.mp3')
-                mp3_file = yt_dl(dest_path, map_name, filename, yt_id)
+                mp3_file = yt_dl(ytdlp_path, ffmpeg_path, dest_path, map_name, filename, yt_id)
 
                 # Apply metadata to MP3 files
                 print(f'Applying metadata to {map_name}/{filename}.mp3')
-                apply_metadata(dest_path, map_name, mp3_file, metadata)
+                apply_metadata(ffmpeg_path, dest_path, map_name, mp3_file, metadata)
         
 
 
 
 if __name__ == '__main__':
-    json_path = None
-    output_path = None
+    json_path = output_path = ytdlp_path = ffmpeg_path = None
+    # output_path = None
+    while not ytdlp_path:
+        print('Please choose the path to yt-dlp.exe:')
+        ytdlp_path = askopenfilename()
+    while not ffmpeg_path:
+        print('Please choose the path to ffmpeg.exe:')
+        ffmpeg_path = askopenfilename()
     while not json_path:
-        print('Please specify the JSON file:')
+        print('Please specify the JSON file(s):')
         json_path = askopenfilenames()
 
     while not output_path:
         print("Please specify the output directory:")
         output_path = askdirectory()
     
-    process_json(json_path, output_path)
+    process_json(ytdlp_path, ffmpeg_path, json_path, output_path)
     
