@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Orbis Party Quest boss theme",
+        "filename": "PlotOfPixie",
+        "mark": "GoddessTower",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Plot of Pixie",
+            "year": "2006"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2006-07-14",
+            "structure": "Bgm08",
+            "version": "1.2.52"
+        },
+        "youtube": "znPiUenHhP4"
+    },
+    {
+        "description": "Orbis Party Quest",
+        "filename": "TowerOfGoddess",
+        "mark": "GoddessTower",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Tower of a Goddess",
+            "year": "2006"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2006-07-14",
+            "structure": "Bgm13",
+            "version": "1.2.52"
+        },
+        "youtube": "UEByqQPt2is"
+    }
+]

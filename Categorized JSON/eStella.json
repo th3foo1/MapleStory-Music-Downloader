@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Starlight Symphony (MapleStory Destiny)",
+        "filename": "StarlightSymphony",
+        "mark": "eStella",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Starlight Symphony",
+            "year": "2021"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2021-12-23",
+            "structure": "BgmEvent",
+            "version": "1.2.133"
+        },
+        "youtube": "mEhEkAi1rU0"
+    }
+]

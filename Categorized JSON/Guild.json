@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Ergoth boss theme (Sharenian Guild Quest)",
+        "filename": "Eregos",
+        "mark": "Guild",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Eregos",
+            "year": "2006"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2006-03-16",
+            "structure": "Bgm10",
+            "version": "1.2.38"
+        },
+        "youtube": "rNnYpo9-cRw"
+    },
+    {
+        "description": "Perion Castle Waterways, Sharenian Guild Quest",
+        "filename": "WaterWay",
+        "mark": "Guild",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Water Way",
+            "year": "2006"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2006-03-16",
+            "structure": "Bgm12",
+            "version": "1.2.38"
+        },
+        "youtube": "Su6P7juLavE"
+    }
+]

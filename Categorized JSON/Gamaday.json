@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Gamania 20th anniversary event: Tangerine Heaven minigame",
+        "filename": "2015gamaday_minigame",
+        "mark": "Gamaday",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "2015 Gamaday Minigame",
+            "year": "2015"
+        },
+        "source": {
+            "client": "TMS",
+            "date": "2015-10-20",
+            "structure": "BgmTW",
+            "version": "1.84"
+        },
+        "youtube": "H3YiN4_cfIc"
+    },
+    {
+        "description": "Gamania 20th anniversary event: Tangerine Heaven",
+        "filename": "2015gamaday_park",
+        "mark": "Gamaday",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "2015 Gamaday Park",
+            "year": "2015"
+        },
+        "source": {
+            "client": "TMS",
+            "date": "2015-10-20",
+            "structure": "BgmTW",
+            "version": "1.84"
+        },
+        "youtube": "nPEUYAvLVGQ"
+    }
+]
