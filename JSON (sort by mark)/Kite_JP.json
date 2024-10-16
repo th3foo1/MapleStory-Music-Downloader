@@ -1,0 +1,74 @@
+[
+    {
+        "description": "ChinaMS Summer Boating event",
+        "filename": "summerboating01",
+        "mark": "Kite_JP",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Summer Boating 1",
+            "year": "2008"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2008-07-18",
+            "structure": "BgmCN",
+            "version": "0.21"
+        },
+        "youtube": "1h8ZJhL7GqQ"
+    },
+    {
+        "description": "ChinaMS Summer Boating event",
+        "filename": "summerboating02",
+        "mark": "Kite_JP",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Summer Boating 2",
+            "year": "2008"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2008-07-18",
+            "structure": "BgmCN",
+            "version": "0.21"
+        },
+        "youtube": "IPokl8jGHcg"
+    },
+    {
+        "description": "ChinaMS Summer Boating event",
+        "filename": "summerboating03",
+        "mark": "Kite_JP",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Summer Boating 3",
+            "year": "2008"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2008-07-18",
+            "structure": "BgmCN",
+            "version": "0.21"
+        },
+        "youtube": "kiXwuRCn3zo"
+    },
+    {
+        "description": "TaiwanMS Mid-Autumn Festival",
+        "filename": "ThanksGivingDay",
+        "mark": "Kite_JP",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Thanksgiving Day",
+            "year": "2012"
+        },
+        "source": {
+            "client": "TMS",
+            "date": "2012-09-19",
+            "structure": "BgmTW",
+            "version": "1.49"
+        },
+        "youtube": "HOm_PhJ41jM"
+    }
+]

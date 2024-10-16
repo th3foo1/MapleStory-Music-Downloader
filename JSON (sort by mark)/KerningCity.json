@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Kerning City",
+        "filename": "BadGuys",
+        "mark": "KerningCity",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "CODASOUND",
+            "title": "Bad Guys",
+            "year": "2003"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2003-06-03",
+            "structure": "Bgm01",
+            "version": "1.22"
+        },
+        "youtube": "uv8QObpL2EY"
+    },
+    {
+        "description": "Kerning Swamp",
+        "filename": "JungleBook",
+        "mark": "KerningCity",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "CODASOUND",
+            "title": "Jungle Book",
+            "year": "2003"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2003-06-21",
+            "structure": "Bgm02",
+            "version": "1.27"
+        },
+        "youtube": "YYTuDFsvZNU"
+    },
+    {
+        "description": "Kerning Subway",
+        "filename": "Subway",
+        "mark": "KerningCity",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Subway",
+            "year": "2003"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2003-07-16",
+            "structure": "Bgm03",
+            "version": "1.32"
+        },
+        "youtube": "J1YTQvtmsjg"
+    },
+    {
+        "description": "Monster Cleanup: Abandoned Subway",
+        "filename": "UnderSubway",
+        "mark": "KerningCity",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Under the Subway",
+            "year": "2009"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2009-08-27",
+            "structure": "Bgm20",
+            "version": "1.2.83"
+        },
+        "youtube": "T-JvjxgfFWo"
+    }
+]

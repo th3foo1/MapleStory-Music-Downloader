@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Fox Point Village",
+        "filename": "foxvillage",
+        "mark": "foxvillage",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Fox Village",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2013-12-09",
+            "structure": "Bgm36",
+            "version": "1.2.493"
+        },
+        "youtube": "lorm88ckSuM"
+    },
+    {
+        "description": "Shade's Reincarnated Fox God skill",
+        "filename": "LightOfTheFoxGoddess",
+        "mark": "foxvillage",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Forgotten Radiance",
+            "year": "2024"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2024-06-08",
+            "structure": "Bgm36",
+            "version": "1.2.174"
+        },
+        "youtube": "SfnK7L_rHaU"
+    },
+    {
+        "description": "Rainy Fox Point Village",
+        "filename": "sadfoxvillage",
+        "mark": "foxvillage",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Sad Fox Village",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2013-12-23",
+            "structure": "Bgm36",
+            "version": "1.2.494"
+        },
+        "youtube": "4oNXYkRrf-g"
+    }
+]

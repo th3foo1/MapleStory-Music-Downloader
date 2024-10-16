@@ -1,0 +1,78 @@
+[
+    {
+        "description": "Masteria Through Time: Act 3 Naricain's Assault",
+        "filename": "MBlockbusterC",
+        "mark": "GLblockbuster",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "War for the Castle",
+            "titleAlt": "Masteria Through Time C",
+            "year": "2016"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2016-03-10",
+            "structure": "BgmGL",
+            "version": "1.71"
+        },
+        "youtube": "kMp88mh3uB0"
+    },
+    {
+        "description": "Masteria Through Time theme",
+        "filename": "MBlockbusterE1",
+        "mark": "GLblockbuster",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "An Eternal Breath -instrumental-",
+            "titleAlt": "Masteria Through Time E1",
+            "year": "2016"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2016-03-10",
+            "structure": "BgmGL",
+            "version": "1.71"
+        },
+        "youtube": "sLoeKIxeHIM"
+    },
+    {
+        "description": "Masteria Through Time: Act 4 ending",
+        "filename": "MBlockbusterE2",
+        "mark": "GLblockbuster",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "An Eternal Breath",
+            "titleAlt": "Masteria Through Time E2",
+            "year": "2016"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2016-03-10",
+            "structure": "BgmGL",
+            "version": "1.71"
+        },
+        "youtube": "a5inRrauUZA"
+    },
+    {
+        "description": "Masteria Through Time: Act 1 Krakian Jungle",
+        "filename": "MBlockbusterJ",
+        "mark": "GLblockbuster",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Jungle Pursuit",
+            "titleAlt": "Masteria Through Time J",
+            "year": "2016"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2016-03-10",
+            "structure": "BgmGL",
+            "version": "1.71"
+        },
+        "youtube": "GKfCI58qgwM"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Ghost Ship in the Sea Mist",
+        "filename": "GhostShipSeaMist",
+        "mark": "GhostShip",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Ghost Ship in the Sea Mist",
+            "year": "2009"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2009-09-22",
+            "structure": "Bgm20",
+            "version": "1.2.256"
+        },
+        "youtube": "30PL_lLEBxU"
+    }
+]

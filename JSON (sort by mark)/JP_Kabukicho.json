@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Tokyo: Kabukicho",
+        "filename": "Gabuki",
+        "mark": "JP_Kabukicho",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Kabuki",
+            "year": "2014"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2014-04-22",
+            "structure": "BgmJp",
+            "version": "3.25"
+        },
+        "youtube": "K4Lg7Ny5kX0"
+    }
+]

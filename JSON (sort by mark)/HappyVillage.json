@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Happyville",
+        "filename": "WhiteChristmas",
+        "mark": "HappyVillage",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "White Christmas",
+            "year": "2003"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2003-12-15",
+            "structure": "Bgm04",
+            "version": "1.50"
+        },
+        "youtube": "IzzDrEuFpnE"
+    },
+    {
+        "description": "Happyville (Alternate Version)",
+        "filename": "WhiteChristmasSea",
+        "mark": "HappyVillage",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "White Christmas (Alternate Version)",
+            "year": "2003"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2007-12-18",
+            "structure": "Bgm04",
+            "version": "0.49"
+        },
+        "youtube": "zAqyNzqqgT0"
+    },
+    {
+        "description": "2015 Sizzling Santa event",
+        "filename": "GLBurningSanta",
+        "mark": "HappyVillage",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Burning Santa",
+            "year": "2015"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2015-12-02",
+            "structure": "BgmGL",
+            "version": "1.68"
+        },
+        "youtube": "W8uREXc8Tzk"
+    },
+    {
+        "description": "2015 Sizzling Santa event",
+        "filename": "GLBurningSanta (Alternate Version)",
+        "mark": "HappyVillage",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Burning Santa (Alterate Version)",
+            "year": "2015"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2015-12-08",
+            "structure": "BgmGL",
+            "version": "3.45"
+        },
+        "youtube": "i-wfyqyxWeM"
+    }
+]

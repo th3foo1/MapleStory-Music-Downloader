@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Zipangu: Showa Sauna",
+        "filename": "Bathroom",
+        "mark": "JP_shouwa",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Bathroom",
+            "year": "2005"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2005-01-12",
+            "structure": "BgmJp",
+            "version": "0.69"
+        },
+        "youtube": "yRrCGa54Vbo"
+    },
+    {
+        "description": "Zipangu: Showa Hideout",
+        "filename": "BattleField",
+        "mark": "JP_shouwa",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Battlefield",
+            "year": "2005"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2005-07-06",
+            "structure": "BgmJp",
+            "version": "0.89"
+        },
+        "youtube": "ZDS4Dd7ULvM"
+    },
+    {
+        "description": "Similar to Yume, but unused",
+        "filename": "Hana",
+        "mark": "JP_shouwa",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Hana",
+            "year": "2004"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2004-12-08",
+            "structure": "BgmJp",
+            "version": "0.63"
+        },
+        "youtube": "1nj0TXt_23c"
+    },
+    {
+        "description": "Zipangu: Showa Town",
+        "filename": "Yume",
+        "mark": "JP_shouwa",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Yume",
+            "year": "2004"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2004-12-08",
+            "structure": "BgmJp",
+            "version": "0.63"
+        },
+        "youtube": "58QPkwCSd4Y"
+    }
+]

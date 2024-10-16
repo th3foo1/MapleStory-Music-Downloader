@@ -1,0 +1,92 @@
+[
+    {
+        "description": "Edelstein",
+        "filename": "EdelsteinCity",
+        "mark": "Edelstein",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Edelstein City",
+            "year": "2010"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2010-07-14",
+            "structure": "Bgm22",
+            "version": "1.2.327"
+        },
+        "youtube": "Iayh6shDnwQ"
+    },
+    {
+        "description": "Edelstein Park",
+        "filename": "NationalPark",
+        "mark": "Edelstein",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "National Park",
+            "year": "2010"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2010-07-14",
+            "structure": "Bgm22",
+            "version": "1.2.327"
+        },
+        "youtube": "4dOKSVa5_L8"
+    },
+    {
+        "description": "Edelstein: Resistance Headquarters",
+        "filename": "UndergroundPlace",
+        "mark": "Edelstein",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Underground Place",
+            "year": "2010"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2010-07-14",
+            "structure": "Bgm22",
+            "version": "1.2.327"
+        },
+        "youtube": "SNuR31g7gqI"
+    },
+    {
+        "description": "Mirror World: Edelstein",
+        "filename": "EdelsteinCityInMirror",
+        "mark": "Edelstein",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Edelstein City in Mirror",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
+        },
+        "youtube": "mJhPiB4Y1Sk"
+    },
+    {
+        "description": "MapleStory Glory: The Day After (Resistance cutscene)",
+        "filename": "LiberatedEdelsteinCity",
+        "mark": "Edelstein",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Liberated Edelstein City",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-06-15",
+            "structure": "Bgm52",
+            "version": "1.2.087"
+        },
+        "youtube": "lWUVqxA1IqM"
+    }
+]

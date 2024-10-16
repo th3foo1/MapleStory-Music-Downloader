@@ -1,0 +1,296 @@
+[
+    {
+        "description": "Pachinko ambient noise",
+        "filename": "Pachinko_Interior_Ambience",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Pachinko Interior Ambience",
+            "year": "2005"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2005-08-24",
+            "structure": "Bgm_pachinko",
+            "version": "0.93"
+        },
+        "youtube": "NJo_TrTWIa4"
+    },
+    {
+        "description": "Zipangu: Mushroom Shrine Cemetery, Pine Forest",
+        "filename": "BizarreForest",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "CODASOUND",
+            "title": "Bizarre Forest",
+            "year": "2004"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2004-09-02",
+            "structure": "BgmJp",
+            "version": "0.54"
+        },
+        "youtube": "9kmYUElcL_w"
+    },
+    {
+        "description": "Zipangu: Ninja Castle boss theme",
+        "filename": "CastleBoss",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Castle Boss",
+            "year": "2007"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2007-04-25",
+            "structure": "BgmJp",
+            "version": "1.26"
+        },
+        "youtube": "_mSoAfONu6U"
+    },
+    {
+        "description": "Zipangu: Ninja Castle indoors",
+        "filename": "CastleInside",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Castle Inside",
+            "year": "2007"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2007-04-25",
+            "structure": "BgmJp",
+            "version": "1.26"
+        },
+        "youtube": "8bvx6bZ8WnA"
+    },
+    {
+        "description": "Zipangu: Ninja Castle outdoors",
+        "filename": "CastleOutSide",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Castle Outside",
+            "year": "2007"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2007-04-25",
+            "structure": "BgmJp",
+            "version": "1.26"
+        },
+        "youtube": "6yJ3_i6emNw"
+    },
+    {
+        "description": "Zipangu: Ninja Castle trap room",
+        "filename": "CastleTrap",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Castle Trap",
+            "year": "2007"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2007-04-25",
+            "structure": "BgmJp",
+            "version": "1.26"
+        },
+        "youtube": "c310tdhrwtk"
+    },
+    {
+        "description": "Zipangu: Mushroom Shrine",
+        "filename": "Feeling",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Feeling",
+            "year": "2004"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2004-04-23",
+            "structure": "BgmJp",
+            "version": "0.41"
+        },
+        "youtube": "SdcsTuVLJk0"
+    },
+    {
+        "description": "Mushroom Shrine Tales theme",
+        "filename": "LegendOfZipang",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Legend of Zipang",
+            "year": "2016"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
+        },
+        "youtube": "48u6RCI9hSg"
+    },
+    {
+        "decoration": {
+            "minorTrack": true
+        },
+        "description": "Mushroom Shrine Tales - Act 5 ending",
+        "filename": "LegendOfZipang_Reprise",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Legend of Zipang ~reprise~",
+            "year": "2016"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
+        },
+        "youtube": "F1DvK7E0kUE"
+    },
+    {
+        "description": "Mushroom Shrine Tales - Act 2 & 5 sad theme",
+        "filename": "LegendOfZipang_Sad",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Legend of Zipang ~sad~",
+            "year": "2016"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
+        },
+        "youtube": "Kz8VmXpyPLU"
+    },
+    {
+        "description": "Zipangu: Mushroom Shrine (2016 revamp)",
+        "filename": "LegendOfZipang_Silence",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Legend of Zipang ~silence~",
+            "year": "2016"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
+        },
+        "youtube": "nAjsQ902it0"
+    },
+    {
+        "description": "Mushroom Shrine Tales ending credits",
+        "filename": "LivingAgain",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Living Again",
+            "year": "2016"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
+        },
+        "youtube": "kNGnsV_4mxE"
+    },
+    {
+        "decoration": {
+            "minorTrack": true
+        },
+        "description": "Mushroom Shrine Tales ending credits",
+        "filename": "LivingAgain_Reprise",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Living Again ~reprise~",
+            "year": "2016"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
+        },
+        "youtube": "9zQXcyMz9Q4"
+    },
+    {
+        "description": "Mushroom Shrine Tales - Tengu boss theme",
+        "filename": "Tengou'sTrial",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Tengou's Trial",
+            "year": "2016"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
+        },
+        "youtube": "-PFT0rDJpNk"
+    },
+    {
+        "description": "Mushroom Shrine Tales battle theme",
+        "filename": "YokaiBoso",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Yokai Boso",
+            "year": "2016"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
+        },
+        "youtube": "7O5EA1KVZSo"
+    },
+    {
+        "description": "Mushroom Shrine Tales Act 4",
+        "filename": "ZipangHero",
+        "mark": "jipangu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Zipang Hero",
+            "year": "2016"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
+        },
+        "youtube": "OhzWkiTds2o"
+    }
+]

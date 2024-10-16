@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Zipangu: Momijigaoka",
+        "filename": "Momijigaoka",
+        "mark": "JP_Momijigaoka",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Momijigaoka",
+            "year": "2012"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2012-07-11",
+            "structure": "BgmJp3",
+            "version": "3.00"
+        },
+        "youtube": "ydtzNwT0Tys"
+    },
+    {
+        "description": "Zipangu: Momiji Hills",
+        "filename": "MomijiNoSakamichi",
+        "mark": "JP_Momijigaoka",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Momiji No Sakamichi",
+            "year": "2012"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2012-07-11",
+            "structure": "BgmJp3",
+            "version": "3.00"
+        },
+        "youtube": "Vwn3_L3hyqY"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Identisk (MapleStory New Age)",
+        "filename": "Dancing_Sea_Otter",
+        "mark": "identisk",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Dancing Sea Otter",
+            "year": "2023"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2023-06-10",
+            "structure": "BgmEvent3",
+            "version": "1.2.155"
+        },
+        "youtube": "y3v98cUp6PQ"
+    },
+    {
+        "description": "Identisk Festival (MapleStory New Age)",
+        "filename": "Dancing_Sea_Otter_Festival",
+        "mark": "identisk",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Dancing Sea Otter Festival",
+            "year": "2023"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2023-08-03",
+            "structure": "BgmEvent3",
+            "version": "1.2.158"
+        },
+        "youtube": "VoQ1D65vSDQ"
+    }
+]
