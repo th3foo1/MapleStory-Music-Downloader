@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Ludibrium: Eos Tower, Helios Tower",
+        "filename": "FunnyTimeMaker",
+        "mark": "LudiTower1",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "CODASOUND",
+            "title": "Funny Time Maker",
+            "year": "2004"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm07",
+            "version": "1.81"
+        },
+        "youtube": "JSPCrPrepRE"
+    },
+    {
+        "description": "Ludibrium: Eos Tower exterior",
+        "filename": "HighEnough",
+        "mark": "LudiTower1",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "CODASOUND",
+            "title": "High Enough",
+            "year": "2004"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm07",
+            "version": "1.81"
+        },
+        "youtube": "iqWeh-dkwu4"
+    }
+]

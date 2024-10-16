@@ -1,0 +1,20 @@
+[
+    {
+        "description": "21st anniversary - Maple Soccer Online minigame",
+        "filename": "21st_mapleSoccerOnline",
+        "mark": "multiSoccer",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Maple Soccer Online",
+            "year": "2024"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2024-04-11",
+            "structure": "BgmEvent3",
+            "version": "1.2.172"
+        },
+        "youtube": "MfqGVcr-dPs"
+    }
+]

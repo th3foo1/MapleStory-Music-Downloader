@@ -1,0 +1,164 @@
+[
+    {
+        "description": "2022 New Leaf City: Galacto-Drill boss theme",
+        "filename": "NLC_boss",
+        "mark": "NLC",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "New Leaf City - Boss",
+            "year": "2012"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2012-03-14",
+            "structure": "BgmGL",
+            "version": "1.07"
+        },
+        "youtube": "X6GR21aZ7WM"
+    },
+    {
+        "description": "2022 New Leaf City: Krakian Jungle",
+        "filename": "NLC_field",
+        "mark": "NLC",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "New Leaf City - Field",
+            "year": "2012"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2012-03-14",
+            "structure": "BgmGL",
+            "version": "1.07"
+        },
+        "youtube": "yYfxATnVF1Q"
+    },
+    {
+        "description": "New Leaf City: Krakian Jungle",
+        "filename": "NLChunt",
+        "mark": "NLC",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "New Leaf City - Hunt",
+            "year": "2007"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2007-07-26",
+            "structure": "BgmGL",
+            "version": "0.40"
+        },
+        "youtube": "UB_Dn0LCYLE"
+    },
+    {
+        "description": "2022 New Leaf City: Alien Base",
+        "filename": "NLC_kidnap",
+        "mark": "NLC",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "New Leaf City - Kidnap",
+            "year": "2012"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2012-03-14",
+            "structure": "BgmGL",
+            "version": "1.07"
+        },
+        "youtube": "Ye-iYhVZpcI"
+    },
+    {
+        "description": "New Leaf City",
+        "filename": "NLCtown",
+        "mark": "NLC",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "New Leaf City - Town",
+            "year": "2007"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2007-07-26",
+            "structure": "BgmGL",
+            "version": "0.40"
+        },
+        "youtube": "EXv5madDarI"
+    },
+    {
+        "description": "2022 New Leaf City",
+        "filename": "NLC_town (2022 NLC)",
+        "mark": "NLC",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "New Leaf City - Town (Alien Invasion)",
+            "year": "2012"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2012-03-14",
+            "structure": "BgmGL",
+            "version": "1.07"
+        },
+        "youtube": "SuNPfne8Oxw"
+    },
+    {
+        "description": "New Leaf City: MesoGears",
+        "filename": "NLCupbeat",
+        "mark": "NLC",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "New Leaf City - Upbeat",
+            "year": "2007"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2007-07-26",
+            "structure": "BgmGL",
+            "version": "0.40"
+        },
+        "youtube": "d0kE_pLlE2U"
+    },
+    {
+        "description": "Krakian Jungle: Excavation Site",
+        "filename": "Cerberusian",
+        "mark": "NLC",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Cerberusian",
+            "year": "2019"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2019-12-18",
+            "structure": "GL_Masteria",
+            "version": "2.10"
+        },
+        "youtube": "c1iOUKGxcKY"
+    },
+    {
+        "description": "Krakian Jungle",
+        "filename": "Nostalgia",
+        "mark": "NLC",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Nostalgia",
+            "year": "2019"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2019-12-18",
+            "structure": "GL_Masteria",
+            "version": "2.10"
+        },
+        "youtube": "d9yQgNcuUhA"
+    }
+]

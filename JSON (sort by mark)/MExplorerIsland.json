@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Maple Explorer - Misty Island event",
+        "filename": "MIstyIsland_HugeRuinCenters",
+        "mark": "MExplorerIsland",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Misty Island - Huge Ruin Centers",
+            "year": "2022"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2022-07-13",
+            "structure": "BgmWz2",
+            "version": "1.82"
+        },
+        "youtube": "WCpwLmTLcJw"
+    },
+    {
+        "description": "Maple Explorer event",
+        "filename": "UnchartedIsland_Day",
+        "mark": "MExplorerIsland",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Uncharted Island -Day-",
+            "year": "2020"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2020-07-21",
+            "structure": "BgmWz2",
+            "version": "1.62"
+        },
+        "youtube": "fgnfYD84u0Q"
+    },
+    {
+        "description": "Maple Explorer event",
+        "filename": "UnchartedIsland_Night",
+        "mark": "MExplorerIsland",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Uncharted Island -Night-",
+            "year": "2020"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2020-07-21",
+            "structure": "BgmWz2",
+            "version": "1.62"
+        },
+        "youtube": "PDxQ-hHhww4"
+    },
+    {
+        "description": "Maple Explorer event",
+        "filename": "UnchartedIsland_Raid",
+        "mark": "MExplorerIsland",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Uncharted Island -Raid-",
+            "year": "2020"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2020-07-21",
+            "structure": "BgmWz2",
+            "version": "1.62"
+        },
+        "youtube": "ubdQ9SgRY80"
+    }
+]

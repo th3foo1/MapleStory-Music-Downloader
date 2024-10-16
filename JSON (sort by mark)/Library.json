@@ -1,0 +1,236 @@
+[
+    {
+        "description": "Grand Athenaeum",
+        "filename": "DimensionLibrary",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Dimension Library",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2013-09-12",
+            "structure": "Bgm34",
+            "version": "1.2.201"
+        },
+        "youtube": "rrPNjni4GuI"
+    },
+    {
+        "description": "Grand Athenaeum (Original)",
+        "filename": "DimensionLibrary (Original)",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Dimension Library (Original)",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2013-08-13",
+            "structure": "Bgm34",
+            "version": "1.2.199"
+        },
+        "youtube": "XfHmfDcmbkQ"
+    },
+    {
+        "description": "Grand Athenaeum: Episode 1",
+        "filename": "TheAurora",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "The Aurora",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2013-08-08",
+            "structure": "Bgm34",
+            "version": "1.2.488"
+        },
+        "youtube": "Y1EfnMGkgGs"
+    },
+    {
+        "description": "Grand Athenaeum: Episode 1",
+        "filename": "TheStormyForest",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "The Stormy Forest",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2013-08-08",
+            "structure": "Bgm34",
+            "version": "1.2.488"
+        },
+        "youtube": "hf7bujCvxrI"
+    },
+    {
+        "description": "Grand Athenaeum: Episode 5",
+        "filename": "EveningPrimrose",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Evening Primrose",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-12-14",
+            "structure": "Bgm48",
+            "version": "1.2.060"
+        },
+        "youtube": "xtVCiy99OMY"
+    },
+    {
+        "description": "Grand Athenaeum: Episode 4",
+        "filename": "ForgottenNames",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Forgotten Names",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
+        },
+        "youtube": "cplA5pbGHEQ"
+    },
+    {
+        "description": "Grand Athenaeum: Episode 4",
+        "filename": "noname",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "No Name",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
+        },
+        "youtube": "GWmkLaruTag"
+    },
+    {
+        "description": "Grand Athenaeum: Episode 4",
+        "filename": "Nowhere",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Nowhere",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
+        },
+        "youtube": "WhV0PwOpllQ"
+    },
+    {
+        "description": "Grand Athenaeum: Episode 4",
+        "filename": "WayBackHome",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Way Back Home",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
+        },
+        "youtube": "Zb3MV2pIvgM"
+    },
+    {
+        "description": "Grand Athenaeum: Episode 6 cutscene",
+        "filename": "MyPrinceMyKingdom",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ESTIMATE",
+            "title": "My Prince, My Kingdom",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-07-16",
+            "structure": "Bgm55",
+            "version": "1.2.105"
+        },
+        "youtube": "-XkJ2duNLOg"
+    },
+    {
+        "description": "Grand Athenaeum: Episode 6",
+        "filename": "TheKnightOfSharenian",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ESTIMATE",
+            "title": "The Knight of Sharenian",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-07-16",
+            "structure": "Bgm55",
+            "version": "1.2.105"
+        },
+        "youtube": "otFwc8jP8Dk"
+    },
+    {
+        "description": "Grand Athenaeum: Episode 6",
+        "filename": "WhiteNight",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ESTIMATE",
+            "title": "White Night",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-07-16",
+            "structure": "Bgm55",
+            "version": "1.2.105"
+        },
+        "youtube": "7mxQ0D88tvs"
+    },
+    {
+        "description": "Grand Athenaeum: Maple Chronicles",
+        "filename": "The other side of the dimension",
+        "mark": "Library",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "The Other Side of the Dimension",
+            "year": "2022"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2022-10-20",
+            "structure": "Bgm58",
+            "version": "1.2.147"
+        },
+        "youtube": "1dUnek_TBRk"
+    }
+]

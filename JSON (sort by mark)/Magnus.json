@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Magnus boss theme",
+        "filename": "thefinalWar",
+        "mark": "Magnus",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "The Final War",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-08-10",
+            "structure": "Bgm28",
+            "version": "1.2.445"
+        },
+        "youtube": "5rHW7L-DOJM"
+    },
+    {
+        "description": "Magnus boss theme (Original)",
+        "filename": "thefinalWar (Original)",
+        "mark": "Magnus",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "The Final War (Original)",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-08-06",
+            "structure": "Bgm28",
+            "version": "1.2.444"
+        },
+        "youtube": "BOnEdZbf3ms"
+    }
+]

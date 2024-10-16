@@ -1,0 +1,38 @@
+[
+    {
+        "description": "El Nath: Lion King's Castle",
+        "filename": "BlizzardCastle",
+        "mark": "LionCastle",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Blizzard Castle",
+            "year": "2010"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2010-09-08",
+            "structure": "Bgm23",
+            "version": "1.2.340"
+        },
+        "youtube": "8F100vDwPJg"
+    },
+    {
+        "description": "El Nath: Lion King's Castle - Rose Garden",
+        "filename": "CrimsonTower",
+        "mark": "LionCastle",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Crimson Tower",
+            "year": "2010"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2010-09-08",
+            "structure": "Bgm23",
+            "version": "1.2.340"
+        },
+        "youtube": "KmTlNkXpq-M"
+    }
+]

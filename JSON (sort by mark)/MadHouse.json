@@ -1,0 +1,38 @@
+[
+    {
+        "description": "2015 Halloween: Madhouse",
+        "filename": "MadHouse",
+        "mark": "MadHouse",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Madhouse",
+            "year": "2015"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2015-10-06",
+            "structure": "BgmGL",
+            "version": "1.66"
+        },
+        "youtube": "lRC_rHuks08"
+    },
+    {
+        "description": "2015 Halloween: Madhouse ending",
+        "filename": "MadHouseEnding",
+        "mark": "MadHouse",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Madhouse Ending",
+            "year": "2015"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2015-10-06",
+            "structure": "BgmGL",
+            "version": "1.66"
+        },
+        "youtube": "61JeULEXhZg"
+    }
+]
