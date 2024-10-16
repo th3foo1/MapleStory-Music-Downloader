@@ -1,0 +1,128 @@
+[
+    {
+        "description": "21st anniversary - Maple Racing minigame",
+        "filename": "21st_mapleRacingIngame",
+        "mark": "victoriaCup",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Maple Racing -In Game-",
+            "year": "2024"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2024-05-16",
+            "structure": "BgmEvent3",
+            "version": "1.2.173"
+        },
+        "youtube": "qfMOIJ169mo"
+    },
+    {
+        "description": "21st anniversary - Maple Racing minigame",
+        "filename": "21st_mapleRacingLobby",
+        "mark": "victoriaCup",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Maple Racing -Lobby-",
+            "year": "2024"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2024-05-16",
+            "structure": "BgmEvent3",
+            "version": "1.2.173"
+        },
+        "youtube": "qBIWtnD4sVM"
+    },
+    {
+        "description": "21st anniversary - Chipmunk Sweepers minigame",
+        "filename": "ChipmunkSweepers_Marionette",
+        "mark": "victoriaCup",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Chipmunk Sweepers - Marionette",
+            "year": "2024"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2024-04-11",
+            "structure": "BgmEvent3",
+            "version": "1.2.172"
+        },
+        "youtube": "sVxJ87ntnps"
+    },
+    {
+        "description": "21st anniversary - Chipmunk Sweepers minigame",
+        "filename": "ChipmunkSweepers_Mouse",
+        "mark": "victoriaCup",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Chipmunk Sweepers - Mouse",
+            "year": "2024"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2024-04-11",
+            "structure": "BgmEvent3",
+            "version": "1.2.172"
+        },
+        "youtube": "MA2xeWsep_g"
+    },
+    {
+        "description": "21st anniversary - Chipmunk Sweepers minigame",
+        "filename": "ChipmunkSweepers_Snake",
+        "mark": "victoriaCup",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Chipmunk Sweepers - Snake",
+            "year": "2024"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2024-04-11",
+            "structure": "BgmEvent3",
+            "version": "1.2.172"
+        },
+        "youtube": "pWK8I7IDR3U"
+    },
+    {
+        "description": "21st anniversary: Victoria Cup",
+        "filename": "VictoriaCup_Day",
+        "mark": "victoriaCup",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Victoria Cup -Day-",
+            "year": "2024"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2024-04-11",
+            "structure": "BgmEvent3",
+            "version": "1.2.172"
+        },
+        "youtube": "hWNSMcmqKsk"
+    },
+    {
+        "description": "21st anniversary: Victoria Cup",
+        "filename": "VictoriaCup_Night",
+        "mark": "victoriaCup",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Victoria Cup -Night-",
+            "year": "2024"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2024-04-11",
+            "structure": "BgmEvent3",
+            "version": "1.2.172"
+        },
+        "youtube": "o3h6eFu6dYg"
+    }
+]

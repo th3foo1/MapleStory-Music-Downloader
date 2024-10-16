@@ -1,0 +1,59 @@
+[
+    {
+        "description": "6th Job Advancement - Sol Erda",
+        "filename": "Radiant Triumph",
+        "mark": "solerda",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Radiant Triumph",
+            "year": "2023"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2023-07-06",
+            "structure": "Bgm59",
+            "version": "1.2.157"
+        },
+        "youtube": "bYE20OjWEbs"
+    },
+    {
+        "decoration": {
+            "minorTrack": true
+        },
+        "description": "6th Job Advancement - Sol Erda",
+        "filename": "Radiant Triumph Reprise",
+        "mark": "solerda",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Radiant Triumph -reprise-",
+            "year": "2023"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2023-07-06",
+            "structure": "Bgm59",
+            "version": "1.2.157"
+        },
+        "youtube": "P3xCJBvoz8o"
+    },
+    {
+        "description": "6th Job Advancement - Sol Erda",
+        "filename": "Tangled Nebula",
+        "mark": "solerda",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Tangled Nebula",
+            "year": "2023"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2023-07-06",
+            "structure": "Bgm59",
+            "version": "1.2.157"
+        },
+        "youtube": "YznuOT5yVKg"
+    }
+]

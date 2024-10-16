@@ -1,0 +1,40 @@
+[
+    {
+        "description": "Snowdrift Lodge",
+        "filename": "WinterCastle",
+        "mark": "PL_WinterCastle",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Melting Snow",
+            "titleAlt": "Winter Castle",
+            "year": "2017"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2017-11-16",
+            "structure": "BgmPL",
+            "version": "1.32"
+        },
+        "youtube": "ZL3iwhrEllA"
+    },
+    {
+        "description": "Snowdrift Lodge: Silver Mountain Slopes",
+        "filename": "WinterCastle_DownHill",
+        "mark": "PL_WinterCastle",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Downhill Ride",
+            "titleAlt": "Winter Castle -Downhill-",
+            "year": "2017"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2017-11-16",
+            "structure": "BgmPL",
+            "version": "1.32"
+        },
+        "youtube": "UBfUH2sbiSk"
+    }
+]

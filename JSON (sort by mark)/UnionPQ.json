@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Flag Race guild competition",
+        "filename": "captureTheFlag",
+        "mark": "UnionPQ",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Capture the Flag",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2013-11-14",
+            "structure": "BgmEvent",
+            "version": "1.2.203"
+        },
+        "youtube": "kCG2WU5PkF0"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Maple Leaf High, Sengoku High",
+        "filename": "MapleHighSchool",
+        "mark": "SeoMoonJung",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Maple High School",
+            "year": "2012"
+        },
+        "source": {
+            "client": "TMS",
+            "date": "2012-05-16",
+            "structure": "BgmTW",
+            "version": "1.46"
+        },
+        "youtube": "EJxiydqtb0k"
+    },
+    {
+        "description": "Taiwan: Ximending",
+        "filename": "YoTaipei",
+        "mark": "SeoMoonJung",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Yo Taipei",
+            "year": "2006"
+        },
+        "source": {
+            "client": "TMS",
+            "date": "2006-04-19",
+            "structure": "BgmTW",
+            "version": "0.28"
+        },
+        "youtube": "Z1_N3UkmaMM"
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "description": "High Noon Gunslinger",
+        "filename": "GunMan",
+        "mark": "PL_Gunman",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Western Gunman",
+            "titleAlt": "Gunman",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-04-27",
+            "structure": "BgmPL",
+            "version": "1.37"
+        },
+        "youtube": "0F8ZQ1NqDSk"
+    }
+]

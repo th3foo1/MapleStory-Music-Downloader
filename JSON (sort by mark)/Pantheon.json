@@ -1,0 +1,410 @@
+[
+    {
+        "description": "Pantheon: Angelic Buster's Room",
+        "filename": "AngelsRoom",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Angel's Room",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-08-10",
+            "structure": "Bgm27",
+            "version": "1.2.445"
+        },
+        "youtube": "EC56KZErScE"
+    },
+    {
+        "description": "Pantheon: Suspicious Hideout, Heretic Temple",
+        "filename": "BaseOfBetrayers",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Base of Betrayers",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
+        },
+        "youtube": "TeFx8yrpzHc"
+    },
+    {
+        "description": "Pantheon border area",
+        "filename": "BorderArea",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Border Area",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
+        },
+        "youtube": "cxqCXm9_LsI"
+    },
+    {
+        "description": "Pantheon: Great Temple",
+        "filename": "GreatTemple",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Great Temple",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
+        },
+        "youtube": "CZTQdmJAEQI"
+    },
+    {
+        "description": "Pantheon Sanctum",
+        "filename": "NovaSanctum",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Nova Sanctum",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
+        },
+        "youtube": "NNh-dYY3MpM"
+    },
+    {
+        "description": "Pantheon",
+        "filename": "Pantheon",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Pantheon",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
+        },
+        "youtube": "ZYeUnqsCnxg"
+    },
+    {
+        "description": "Pantheon field",
+        "filename": "PantheonField",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Pantheon Field",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
+        },
+        "youtube": "Koxm5dEtkS8"
+    },
+    {
+        "description": "Kaiser tutorial",
+        "filename": "StepOfKaiser",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Step of Kaiser",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
+        },
+        "youtube": "r05cGa1Jms0"
+    },
+    {
+        "description": "Kaiser tutorial",
+        "filename": "TrappedKaiser",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Trapped Kaiser",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
+        },
+        "youtube": "TNcUGCElU40"
+    },
+    {
+        "description": "Angelic Buster's Superstar Spotlight skill",
+        "filename": "5thSpotLightFlyAway",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "Wizet",
+            "title": "5th Spotlight Fly Away",
+            "year": "2016"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2016-12-15",
+            "structure": "Bgm30",
+            "version": "1.2.043"
+        },
+        "youtube": "njzZP2857Yc"
+    },
+    {
+        "description": "Angelic Buster's Superstar Spotlight skill",
+        "filename": "5thSpotLightFlyAway (English)",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "Wizet",
+            "title": "5th Spotlight Fly Away (English)",
+            "year": "2024"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2024-05-29",
+            "structure": "Bgm30",
+            "version": "2.32"
+        },
+        "youtube": "hkOtLzywHjY"
+    },
+    {
+        "description": "Angelic Buster's Superstar Spotlight skill",
+        "filename": "5thSpotLightFlyAway (Japanese)",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "Wizet",
+            "title": "5th Spotlight Fly Away (Japanese)",
+            "year": "2024"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2024-09-19",
+            "structure": "Bgm30",
+            "version": "4.27"
+        },
+        "youtube": "KHFv98ZdE_E"
+    },
+    {
+        "description": "Angelic Buster's Grand Finale skill",
+        "filename": "6thGrandFinaleStarBubble",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "6th Grand Finale Star Bubble",
+            "year": "2023"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2023-06-22",
+            "structure": "Bgm30",
+            "version": "1.2.156"
+        },
+        "youtube": "qMKlpiiwVEc"
+    },
+    {
+        "description": "Angelic Buster's Grand Finale skill",
+        "filename": "6thGrandFinaleStarBubble (English)",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "6th Grand Finale Star Bubble (English)",
+            "year": "2024"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2024-05-29",
+            "structure": "Bgm30",
+            "version": "2.32"
+        },
+        "youtube": "8ptGYzhGkz4"
+    },
+    {
+        "description": "Angelic Buster's Grand Finale skill",
+        "filename": "6thGrandFinaleStarBubble (Japanese)",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "6th Grand Finale Star Bubble (Japanese)",
+            "year": "2024"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2024-09-19",
+            "structure": "Bgm30",
+            "version": "4.27"
+        },
+        "youtube": "9iOA5CfaLq0"
+    },
+    {
+        "decoration": {
+            "minorTrack": true
+        },
+        "description": "Angelic Buster's Pretty Exaltation skill",
+        "filename": "shiningHeart",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Shining Heart (Instrumental)",
+            "year": "2024"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2024-03-14",
+            "structure": "Bgm30",
+            "version": "1.2.170"
+        },
+        "youtube": "tRn8s72WodI"
+    },
+    {
+        "decoration": {
+            "minorTrack": true
+        },
+        "description": "Angelic Buster's Pretty Exaltation skill",
+        "filename": "shiningHeart (English)",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Shining Heart (English)",
+            "year": "2024"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2024-05-29",
+            "structure": "Bgm30",
+            "version": "2.32"
+        },
+        "youtube": "qZed3_Isd6I"
+    },
+    {
+        "decoration": {
+            "minorTrack": true
+        },
+        "description": "Angelic Buster's Pretty Exaltation skill",
+        "filename": "shiningHeart (Japanese)",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Shining Heart (Japanese)",
+            "year": "2024"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2024-09-19",
+            "structure": "Bgm30",
+            "version": "4.27"
+        },
+        "youtube": "kxYkg8z01C0"
+    },
+    {
+        "decoration": {
+            "minorTrack": true
+        },
+        "description": "Angelic Buster's Pretty Exaltation skill",
+        "filename": "shiningHeart (Original)",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Shining Heart",
+            "year": "2023"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2023-11-23",
+            "structure": "Bgm30",
+            "version": "1.2.384"
+        },
+        "youtube": "tlJ8v4ZBegA"
+    },
+    {
+        "description": "Angelic Buster's On Stage skill",
+        "filename": "starBubbleFull",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Star Bubble -full-",
+            "year": "2023"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2023-11-09",
+            "structure": "Bgm30",
+            "version": "1.2.163"
+        },
+        "youtube": "dlXrpq-6jHc"
+    },
+    {
+        "description": "Angelic Buster's On Stage skill",
+        "filename": "starBubbleFull (Japanese)",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Star Bubble -full- (Japanese)",
+            "year": "2024"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2024-09-19",
+            "structure": "Bgm30",
+            "version": "4.27"
+        },
+        "youtube": "TQX6KSZr68U"
+    },
+    {
+        "description": "Angelic Buster's On Stage skill",
+        "filename": "StarBubble_Vocal",
+        "mark": "Pantheon",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Star Bubble -full- (English)",
+            "year": "2024"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2024-05-29",
+            "structure": "BgmSG_Event",
+            "version": "2.32"
+        },
+        "youtube": "uoigdWiUzFo"
+    }
+]

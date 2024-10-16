@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Verus Hilla boss theme",
+        "filename": "DepthOfPain",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Depth of Pain",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": "ltnG3UumSro"
+    },
+    {
+        "description": "Labyrinth of Suffering: Eternal Swamp",
+        "filename": "EternalSwamp",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Eternal Swamp",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": "WmjjFgyjyWs"
+    },
+    {
+        "description": "Labyrinth of Suffering: Heart of Suffering",
+        "filename": "HeartofSuffering",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Heart of Suffering",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": "HkmeS-O3Tho"
+    },
+    {
+        "description": "Labyrinth of Suffering",
+        "filename": "SecretLabyrinth",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Secret Labyrinth",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": "HJtvsDPjvo4"
+    }
+]

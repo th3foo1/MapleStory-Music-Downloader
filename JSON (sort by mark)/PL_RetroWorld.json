@@ -1,0 +1,78 @@
+[
+    {
+        "description": "Retro World: Demon King boss theme",
+        "filename": "RetroWorldBoss",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "The Final Stage",
+            "titleAlt": "Retro World Boss",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": "zvXnHdqbCNk"
+    },
+    {
+        "description": "Retro World: Demon King's Tower",
+        "filename": "RetroWorldDungeon",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Action Trap",
+            "titleAlt": "Retro World Dungeon",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": "GSG5FxqIu4g"
+    },
+    {
+        "description": "Retro World training area",
+        "filename": "RetroWorldMiniGame",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Watch Out!",
+            "titleAlt": "Retro World Minigame",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": "VGznt8fdh6w"
+    },
+    {
+        "description": "Retro World: Balina",
+        "filename": "RetroWorldTown",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Ordinary Day",
+            "titleAlt": "Retro World Town",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": "7alGu8gUCgQ"
+    }
+]

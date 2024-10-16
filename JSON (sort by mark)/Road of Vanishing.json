@@ -1,0 +1,76 @@
+[
+    {
+        "description": "Road of Vanishing: Cave of Rest",
+        "filename": "Cave Of Rest",
+        "mark": "Road of Vanishing",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "The Cave of Peace",
+            "titleAlt": "Cave of Rest",
+            "year": "2016"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2016-06-26",
+            "structure": "Bgm46",
+            "version": "1.2.035"
+        },
+        "youtube": "mRV7syEa_jk"
+    },
+    {
+        "description": "Road of Vanishing",
+        "filename": "Lake Of Oblivion",
+        "mark": "Road of Vanishing",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Lake of Oblivion",
+            "year": "2016"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2016-06-26",
+            "structure": "Bgm46",
+            "version": "1.2.035"
+        },
+        "youtube": "xW4ypmROvz0"
+    },
+    {
+        "description": "Road of Vanishing: Flame Zone of Extinction",
+        "filename": "Volcanic Zone Of Extinction",
+        "mark": "Road of Vanishing",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Volcanic Mountain",
+            "titleAlt": "Volcanic Zone Of Extinction",
+            "year": "2016"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2016-06-26",
+            "structure": "Bgm46",
+            "version": "1.2.035"
+        },
+        "youtube": "TihEE_rTcW4"
+    },
+    {
+        "description": "2022 Christmas - Nameless Town",
+        "filename": "Xmas_03_TheLakeofOblivion",
+        "mark": "Road of Vanishing",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Lake Of Oblivion -Xmas ver.-",
+            "year": "2022"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2022-12-22",
+            "structure": "BgmEvent3",
+            "version": "1.2.372"
+        },
+        "youtube": "FJzdLSaqQzI"
+    }
+]

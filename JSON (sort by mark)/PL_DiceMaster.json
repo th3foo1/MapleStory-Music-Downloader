@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Dice Master event",
+        "filename": "DiceMaster",
+        "mark": "PL_DiceMaster",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Dice Master",
+            "year": "2017"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2017-08-30",
+            "structure": "BgmPL",
+            "version": "1.88"
+        },
+        "youtube": "wSwXwkgS4bU"
+    }
+]

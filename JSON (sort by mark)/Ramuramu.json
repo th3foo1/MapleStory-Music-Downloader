@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Ramuramu Valley: Altar of Guardian Angel Slime",
+        "filename": "Historical Site of Slime",
+        "mark": "Ramuramu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Historical Site of Slime",
+            "year": "2021"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2021-08-05",
+            "structure": "Bgm57",
+            "version": "1.2.126"
+        },
+        "youtube": "2DCtrNL0QCg"
+    },
+    {
+        "description": "Ramuramu Valley",
+        "filename": "Welcome to Ramuramu Valley",
+        "mark": "Ramuramu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Welcome to Ramuramu Valley",
+            "year": "2021"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2021-08-05",
+            "structure": "Bgm57",
+            "version": "1.2.126"
+        },
+        "youtube": "OkBhkoBvtYY"
+    },
+    {
+        "description": "Guardian Angel Slime",
+        "filename": "GuardianSlime-Battle",
+        "mark": "Ramuramu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Guardian Slime - Battle",
+            "year": "2021"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2021-08-05",
+            "structure": "BgmMultiTrack",
+            "version": "1.2.126"
+        },
+        "youtube": "mBlj8bvXZO0"
+    },
+    {
+        "description": "Guardian Angel Slime - Wave Phase",
+        "filename": "GuardianSlime-Wave",
+        "mark": "Ramuramu",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Guardian Slime - Wave",
+            "year": "2021"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2021-08-05",
+            "structure": "BgmMultiTrack",
+            "version": "1.2.126"
+        },
+        "youtube": "Kv80AdkRshs"
+    }
+]

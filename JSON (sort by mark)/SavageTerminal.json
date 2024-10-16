@@ -1,0 +1,74 @@
+[
+    {
+        "description": "Savage Terminal field",
+        "filename": "HuntingGround",
+        "mark": "SavageTerminal",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Hunting Ground",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-06-18",
+            "structure": "Bgm47",
+            "version": "1.2.051"
+        },
+        "youtube": "ptB715RqrEE"
+    },
+    {
+        "description": "Savage Terminal: Mr. Hazard's Lair",
+        "filename": "MrHazard",
+        "mark": "SavageTerminal",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Mr. Hazard",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-06-18",
+            "structure": "Bgm47",
+            "version": "1.2.051"
+        },
+        "youtube": "lr9320Tq2_E"
+    },
+    {
+        "description": "Savage Terminal",
+        "filename": "SavageTerminal",
+        "mark": "SavageTerminal",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Savage Terminal",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-06-18",
+            "structure": "Bgm47",
+            "version": "1.2.051"
+        },
+        "youtube": "USf5VrWCrSk"
+    },
+    {
+        "description": "Savage Terminal: Polluted Sewer",
+        "filename": "LosGurugers",
+        "mark": "SavageTerminal",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Los Gurugers",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-11-08",
+            "structure": "Bgm51",
+            "version": "1.2.077"
+        },
+        "youtube": "Kx4OwM2gcfA"
+    }
+]

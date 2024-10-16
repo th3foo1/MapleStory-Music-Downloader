@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Shadowvale, Zero storyline",
+        "filename": "NastyLiar",
+        "mark": "ShadowKnight",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Nasty Liar",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
+        },
+        "youtube": "qyHoIl5-upc"
+    },
+    {
+        "description": "Shadow Knight theme, Zero storyline",
+        "filename": "ShadowKnight",
+        "mark": "ShadowKnight",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Shadow Knight",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
+        },
+        "youtube": "TAzZTAiIrXI"
+    }
+]

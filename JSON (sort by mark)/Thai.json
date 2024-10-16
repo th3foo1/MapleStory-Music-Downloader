@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Thailand: Floating Market field",
+        "filename": "ThaiField",
+        "mark": "Thai",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Floating Market Fields",
+            "year": "2006"
+        },
+        "source": {
+            "client": "ThMS",
+            "date": "2006-10-04",
+            "structure": "BgmTH",
+            "version": "0.22"
+        },
+        "youtube": "g1aZRs_r2nA"
+    },
+    {
+        "description": "Thailand: Floating Market",
+        "filename": "ThaiTown",
+        "mark": "Thai",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Floating Market",
+            "year": "2006"
+        },
+        "source": {
+            "client": "ThMS",
+            "date": "2006-10-04",
+            "structure": "BgmTH",
+            "version": "0.22"
+        },
+        "youtube": "2sJP_wp2pBg"
+    }
+]
