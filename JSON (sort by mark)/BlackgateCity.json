@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Blackgate City",
+        "filename": "Blackgate",
+        "mark": "BlackgateCity",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Blackgate",
+            "year": "2015"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2015-07-08",
+            "structure": "BgmGL",
+            "version": "1.63"
+        },
+        "youtube": "2v-Mm-soYvw"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Union Arena",
+        "filename": "unionArena",
+        "mark": "autoPvP",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Union Arena",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-08-11",
+            "structure": "BgmEvent2",
+            "version": "1.2.107"
+        },
+        "youtube": "LOQ7HeMndvo"
+    },
+    {
+        "description": "Union Arena battlefield",
+        "filename": "unionArena2",
+        "mark": "autoPvP",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Union Arena - Battlefield",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2020-08-20",
+            "structure": "BgmEvent2",
+            "version": "1.2.337"
+        },
+        "youtube": "D5f8O1NTSGc"
+    }
+]

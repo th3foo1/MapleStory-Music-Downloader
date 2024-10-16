@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Ludibrium Party Quest",
+        "filename": "Fantasia",
+        "mark": "AbandonTower",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "CODASOUND",
+            "title": "Fantasia",
+            "year": "2005"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2005-03-24",
+            "structure": "Bgm07",
+            "version": "1.87"
+        },
+        "youtube": "v-GtLObPoto"
+    },
+    {
+        "description": "Ludibrium Party Quest: Darkness in the Tower",
+        "filename": "DarkShadow",
+        "mark": "AbandonTower",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Dark Shadow",
+            "year": "2005"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2005-03-24",
+            "structure": "Bgm09",
+            "version": "1.87"
+        },
+        "youtube": "wWB1hTbtoNQ"
+    },
+    {
+        "description": "Ludibrium Party Quest boss theme",
+        "filename": "TheyMenacingYou",
+        "mark": "AbandonTower",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "They're Menacing You",
+            "year": "2005"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2005-03-24",
+            "structure": "Bgm09",
+            "version": "1.87"
+        },
+        "youtube": "hYVoxcVK0ns"
+    }
+]

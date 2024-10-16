@@ -1,0 +1,56 @@
+[
+    {
+        "description": "Starlight Symphony - Sentimental Band effect",
+        "filename": "FrozenLink_Lofi",
+        "mark": "5121124",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Frozen Link -Lofi ver.-",
+            "year": "2021"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2021-12-23",
+            "structure": "BgmEvent",
+            "version": "1.2.133"
+        },
+        "youtube": "-FmEMz7qw0g"
+    },
+    {
+        "description": "Starlight Symphony - Sentimental Band effect",
+        "filename": "IlliyardMoor_Lofi",
+        "mark": "5121124",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Illiyard Moor -Lofi ver.-",
+            "year": "2021"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2021-12-23",
+            "structure": "BgmEvent",
+            "version": "1.2.133"
+        },
+        "youtube": "zsBbw0IftIM"
+    },
+    {
+        "description": "Starlight Symphony - Sentimental Band effect",
+        "filename": "Leafre_Lofi",
+        "mark": "5121124",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Leafre -Lofi ver.-",
+            "year": "2021"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2021-12-23",
+            "structure": "BgmEvent",
+            "version": "1.2.133"
+        },
+        "youtube": "Srl1tWFutQE"
+    }
+]

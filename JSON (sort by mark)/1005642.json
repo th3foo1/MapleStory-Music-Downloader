@@ -1,0 +1,56 @@
+[
+    {
+        "description": "X-Mas Headset: Maple Christmas ft. Athena Pierce & Friends",
+        "filename": "Joy To The Maple World",
+        "mark": "1005642",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Joy to the Maple World",
+            "year": "2020"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2020-11-11",
+            "structure": "BgmSG_HeadPhone",
+            "version": "1.99"
+        },
+        "youtube": "mhR9aIeWa94"
+    },
+    {
+        "description": "X-Mas Headset: Maple Christmas ft. Athena Pierce & Friends",
+        "filename": "Pink Christmas",
+        "mark": "1005642",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Pink Christmas",
+            "year": "2020"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2020-11-11",
+            "structure": "BgmSG_HeadPhone",
+            "version": "1.99"
+        },
+        "youtube": "Xb1jH5hVQMs"
+    },
+    {
+        "description": "X-Mas Headset: Maple Christmas ft. Athena Pierce & Friends",
+        "filename": "Together",
+        "mark": "1005642",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Together",
+            "year": "2020"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2020-11-11",
+            "structure": "BgmSG_HeadPhone",
+            "version": "1.99"
+        },
+        "youtube": "3dUDJ7gIoO0"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Mabinogi Nao chair (Bard's Song) effect",
+        "filename": "An Old Story from Grandma",
+        "mark": "3019243",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "An Old Story From Grandma",
+            "year": "2024"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2024-04-11",
+            "structure": "BgmEvent3",
+            "version": "1.2.172"
+        },
+        "youtube": "7AVs339S-JM"
+    }
+]

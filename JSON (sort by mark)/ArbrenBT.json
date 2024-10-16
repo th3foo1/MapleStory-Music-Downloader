@@ -1,0 +1,113 @@
+[
+    {
+        "description": "Tournament of Heroes Arena",
+        "filename": "BeastTamerColloseum",
+        "mark": "ArbrenBT",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Beast Tamer: Colosseum",
+            "year": "2014"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2014-01-05",
+            "structure": "BgmBT",
+            "version": "0.87"
+        },
+        "youtube": "1Z4-AVRNNEI"
+    },
+    {
+        "description": "Arboren: Kobold Pit",
+        "filename": "BeastTamerKoboltCave",
+        "mark": "ArbrenBT",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Beast Tamer: Kobolt Cave",
+            "year": "2014"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2014-01-05",
+            "structure": "BgmBT",
+            "version": "0.87"
+        },
+        "youtube": "Pyfqoim3jPA"
+    },
+    {
+        "description": "Arboren: Canopy Town",
+        "filename": "BeastTamerWoodTown",
+        "mark": "ArbrenBT",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Beast Tamer: Wood Town",
+            "year": "2014"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2014-01-05",
+            "structure": "BgmBT",
+            "version": "0.87"
+        },
+        "youtube": "Ol-Cy_VUDMM"
+    },
+    {
+        "description": "Secret Stories - Chapter 1",
+        "filename": "HiddenTales_Mystery",
+        "mark": "ArbrenBT",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Greetings of the Death Angel",
+            "titleAlt": "Hidden Tales: Mystery",
+            "year": "2016"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2016-09-23",
+            "structure": "BgmPL",
+            "version": "1.18"
+        },
+        "youtube": "fWQyB979IF0"
+    },
+    {
+        "description": "Secret Stories - Chapter 2 & 3",
+        "filename": "HiddenTales_Sorrow",
+        "mark": "ArbrenBT",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Frozen Heart",
+            "titleAlt": "Hidden Tales: Sorrow",
+            "year": "2016"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2016-09-23",
+            "structure": "BgmPL",
+            "version": "1.18"
+        },
+        "youtube": "gd_xlvU0P2Q"
+    },
+    {
+        "description": "Secret Stories - Chapter 2 & 3",
+        "filename": "HiddenTales_Tension",
+        "mark": "ArbrenBT",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "The Shadow of Chaos",
+            "titleAlt": "Hidden Tales: Tension",
+            "year": "2016"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2016-09-23",
+            "structure": "BgmPL",
+            "version": "1.18"
+        },
+        "youtube": "PYGOnSNO79o"
+    }
+]

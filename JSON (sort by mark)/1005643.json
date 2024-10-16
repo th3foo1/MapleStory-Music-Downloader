@@ -1,0 +1,56 @@
+[
+    {
+        "description": "GOGOA Headset: Mushroom Power ft. Sleedpy Brothers",
+        "filename": "Abyss",
+        "mark": "1005643",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Abyss",
+            "year": "2020"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2020-11-11",
+            "structure": "BgmSG_HeadPhone",
+            "version": "1.99"
+        },
+        "youtube": "hoPouBVskg8"
+    },
+    {
+        "description": "GOGOA Headset: Mushroom Power ft. Sleedpy Brothers",
+        "filename": "Into The Dungeon",
+        "mark": "1005643",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Into the Dungeon",
+            "year": "2020"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2020-11-11",
+            "structure": "BgmSG_HeadPhone",
+            "version": "1.99"
+        },
+        "youtube": "ff-4__wv1gE"
+    },
+    {
+        "description": "GOGOA Headset: Mushroom Power ft. Sleedpy Brothers",
+        "filename": "Mushroom Power",
+        "mark": "1005643",
+        "metadata": {
+            "albumArtist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Mushroom Power",
+            "year": "2020"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2020-11-11",
+            "structure": "BgmSG_HeadPhone",
+            "version": "1.99"
+        },
+        "youtube": "e3XvDcjXoe8"
+    }
+]

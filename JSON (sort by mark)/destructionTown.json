@@ -1,0 +1,38 @@
+[
+    {
+        "description": "Henesys Ruins",
+        "filename": "destructionTown",
+        "mark": "destructionTown",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Destruction Town",
+            "year": "2010"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2010-12-23",
+            "structure": "Bgm25",
+            "version": "1.2.359"
+        },
+        "youtube": "fM0ZfX9zkL4"
+    },
+    {
+        "description": "Gate to the Future",
+        "filename": "timeGate",
+        "mark": "destructionTown",
+        "metadata": {
+            "albumArtist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Time Gate",
+            "year": "2011"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2011-01-05",
+            "structure": "Bgm25",
+            "version": "1.2.362"
+        },
+        "youtube": "rJKUHOoWNiA"
+    }
+]
