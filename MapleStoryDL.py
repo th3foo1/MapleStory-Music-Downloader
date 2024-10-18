@@ -39,6 +39,7 @@ def apply_metadata(ffmpeg_path, file_path, map_name, mp3_file, metadata):
         '-metadata', f'artist="{artist}"',
         '-metadata', f'album_artist="{albumArtist}"',
         '-metadata', f'year="{year}"',
+        '-metadata', f'description="{desc}"',
         '-codec', 'copy',
         '-n', # Do not overwrite file if file already exist
         f'"{file_path}/{map_name}/{output_file}"'
