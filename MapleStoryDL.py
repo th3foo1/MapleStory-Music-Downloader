@@ -1,3 +1,6 @@
+# Downloader for Windows environment.
+# Requires powershell.exe
+
 import json
 import subprocess
 import os
