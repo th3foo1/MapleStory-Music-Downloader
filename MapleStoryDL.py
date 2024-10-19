@@ -15,6 +15,7 @@ def yt_dl(ytdlp_path, ffmpeg_path, dest_path, map_name, filename, yt_id):
         'powershell.exe', 
         '&', f'"{ytdlp_path}"', # Call yt-dlp.exe from absolute path
         '-x', # Extract audio only
+        '-q', # Quiet mode
         '--audio-format', 'mp3', # Output format to be MP3
         '--audio-quality' ,'0', # Best audio quality
         '--ffmpeg-location', f'"{ffmpeg_path}"', 
@@ -44,6 +45,7 @@ def apply_metadata(ffmpeg_path, file_path, map_name, mp3_file, metadata):
         '-metadata', f'year="{year}"',
         '-metadata', f'description="{desc}"',
         '-codec', 'copy',
+        '-loglevel quiet', # Do not print any output from ffmpeg
         '-n', # Do not overwrite file if file already exist
         f'"{file_path}/{map_name}/{output_file}"'
     ]
