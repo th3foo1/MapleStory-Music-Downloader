@@ -77,7 +77,7 @@ def process_json(ytdlp_path, ffmpeg_path, json_files, dest_path):
             yt_id = entry.get('youtube')
             map_name = entry.get('mark')
             metadata = entry.get('metadata', {})
-            filename = metadata.get('title')
+            filename = metadata.get('title').replace('?', '') # Remove "?" from the title. Some title in the JSON contains "?"
             
             # Check if the file already exists
             if os.path.isfile(f'{dest_path}/{map_name}/{filename}.mp3'):
